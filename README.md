@@ -50,14 +50,18 @@ contract MyToken {
 }
 ```
 4.Compile the contract by clicking on the "Solidity Compiler" tab and then "Compile MyToken.sol".
+
 5.Deploy the contract by navigating to the "Deploy & Run Transactions" tab, selecting your contract, and clicking "Deploy".
+
 6.Interact with your deployed contract using the provided interface to call functions like tokenName, tokenAbbr, totalSupply, mint, and burn.
 ## Help
 
 For common problems or issues:
 
 1.Ensure you have a stable internet connection while using Remix IDE.
+
 2.Make sure the Solidity version in Remix is set to 0.8.18.
+
 3.If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
 
 For further assistance, you can refer to the Remix documentation or run the help command within Remix IDE if available.
@@ -68,6 +72,7 @@ For further assistance, you can refer to the Remix documentation or run the help
 Prashant Dubey
 
 Linkedin:-https://www.linkedin.com/in/prashant-dubey-59826521b/
+
 Github:- https://github.com/prashantxy
 
 
