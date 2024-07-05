@@ -11,15 +11,18 @@ You will develop a smart contract named MyToken using Solidity 0.8.18. This cont
 ## Getting Started
 ### Installing
 1.Visit the Remix IDE.
+
 2.No installations are required as Remix is an online IDE.
 
 ### Executing program
 
 1.Open Remix IDE.
+
 2.Create a new file named MyToken.sol.
+
 3.Copy and paste the following code into the file:
 ```
-// SPDX-License-Identifier: MIT
+//SPDX-License-Identifier: MIT
 pragma solidity >=0.6.12 <0.9.0;
 
 contract Token {
@@ -63,9 +66,7 @@ For common problems or issues:
 3.If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
 
 For further assistance, you can refer to the Remix documentation or run the help command within Remix IDE if available.
-```
-command to run if program contains helper info
-```
+
 
 ## Authors
 
