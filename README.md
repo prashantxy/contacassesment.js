@@ -10,18 +10,14 @@ You will develop a smart contract named MyToken using Solidity 0.8.18. This cont
 
 ## Getting Started
 ### Installing
-1.Visit the Remix IDE.
-
-2.No installations are required as Remix is an online IDE.
-
+1. Visit the [Remix IDE](https://remix.ethereum.org/).
+2. No installations are required as Remix is an online IDE
 ### Executing program
+1. Open Remix IDE.
+2. Create a new file named `MyToken.sol`.
+3. Copy and paste the following code into the file:
 
-1.Open Remix IDE.
-
-2.Create a new file named MyToken.sol.
-
-3.Copy and paste the following code into the file:
-```
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity > 0.8.18;
 
@@ -49,31 +45,27 @@ contract MyToken {
      }
 }
 ```
-4.Compile the contract by clicking on the "Solidity Compiler" tab and then "Compile MyToken.sol".
+4. Compile the contract by clicking on the "Solidity Compiler" tab and then "Compile MyToken.sol".
+5. Deploy the contract by navigating to the "Deploy & Run Transactions" tab, selecting your contract, and clicking "Deploy".
+6. Interact with your deployed contract using the provided interface to call functions like tokenName, tokenAbbr, totalSupply, mint, and burn.
 
-5.Deploy the contract by navigating to the "Deploy & Run Transactions" tab, selecting your contract, and clicking "Deploy".
-
-6.Interact with your deployed contract using the provided interface to call functions like tokenName, tokenAbbr, totalSupply, mint, and burn.
 ## Help
-
 For common problems or issues:
 
-   1.Ensure you have a stable internet connection while using Remix IDE.
-
-   2.Make sure the Solidity version in Remix is set to 0.8.18.
-
-   3.If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
+1. Ensure you have a stable internet connection while using Remix IDE.
+2. Make sure the Solidity version in Remix is set to 0.8.18.
+3. If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
 
 For further assistance, you can refer to the Remix documentation or run the help command within Remix IDE if available.
 
 
 ## Authors
 
-Prashant Dubey
+- Prashant Dubey
 
- Linkedin:-https://www.linkedin.com/in/prashant-dubey-59826521b/
+ - Linkedin:[Prashant Dubey](https://www.linkedin.com/in/prashant-dubey-59826521b/)
 
- Github:- https://github.com/prashantxy
+ - Github:[Prashant Dubey] (https://github.com/prashantxy)
 
 
 ## License
