@@ -65,7 +65,7 @@ For further assistance, you can refer to the Remix documentation or run the help
 
  - Linkedin:[Prashant Dubey](https://www.linkedin.com/in/prashant-dubey-59826521b/)
 
- - Github:[Prashant Dubey] (https://github.com/prashantxy)
+ - Github:[Prashant Dubey](https://github.com/prashantxy)
 
 
 ## License
