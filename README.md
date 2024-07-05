@@ -58,11 +58,11 @@ contract MyToken {
 
 For common problems or issues:
 
-1.Ensure you have a stable internet connection while using Remix IDE.
+     1.Ensure you have a stable internet connection while using Remix IDE.
 
-2.Make sure the Solidity version in Remix is set to 0.8.18.
+     2.Make sure the Solidity version in Remix is set to 0.8.18.
 
-3.If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
+     3.If you encounter any errors during compilation or deployment, double-check the syntax and version compatibility.
 
 For further assistance, you can refer to the Remix documentation or run the help command within Remix IDE if available.
 
@@ -71,12 +71,12 @@ For further assistance, you can refer to the Remix documentation or run the help
 
 Prashant Dubey
 
-Linkedin:-https://www.linkedin.com/in/prashant-dubey-59826521b/
+     Linkedin:-https://www.linkedin.com/in/prashant-dubey-59826521b/
 
-Github:- https://github.com/prashantxy
+     Github:- https://github.com/prashantxy
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
